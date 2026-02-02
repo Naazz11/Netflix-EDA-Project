@@ -34,7 +34,7 @@ Seaborn – Statistical visualizations
 **📂 Project Structure**
 Netflix-EDA-Project/
 │
-├── Netflix_EDA_Project.py   # Main EDA Python script
+├── netflix_eda.py   # Main EDA Python script
 ├── README.md                # Project documentation
 
 **🧹 Data Cleaning Steps**
@@ -77,7 +77,7 @@ Install required libraries:
 pip install pandas numpy matplotlib seaborn
 
 Run the Python file:
-python Netflix_EDA_Project.py
+python netflix_eda.py
 
 **📌 Future Improvements**
 Add interactive dashboards (Plotly / Power BI)
